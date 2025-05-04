@@ -17,7 +17,7 @@ static const char col_gray4[]       = "#eeeeee";
 static const char col_cyan[]        = "#005577";
 
 static const char col_fg[]        = "#ebdbb2";// from gruvbox
-static const char col_bg[]        = "#1e1d1c";// from gruvbox 
+static const char col_bg[]        = "#1a1814";// from gruvbox 
 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
